@@ -1,1 +1,2 @@
-pwsh ./setup.ps1
+
+/usr/bin/pwsh ./setup.ps1
